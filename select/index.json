@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スーパー立ち上がリーヨ！",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+  "createdAt": "2025-12-25T13:20:02.608731Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーパー立ち上がリーヨ!",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/pl_01_スーパー立ち上がリーヨ!_T-Pistonz+KMC.txt"
+    }
+  ]
+}
